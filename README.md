@@ -3,7 +3,7 @@ An Automatic control & Robotics Engineer(specialization in Smart Aerospace and A
 - 🎬 Visit our Youtube channel to see what I can build [MT-Engineering YouTube Channel](https://www.youtube.com/@engineering_design/videos)
 - 🧠 I'm interested in projects concerning Mobile Robotics and Arieal Robotics(UAV), Mechatronics, GNC(Guidance,Navigation and Control), Machine Learning (  Reinforcement Learning and Visual Learning)
 - 📫 Contact me Via:  minotadache@gmail.com
-  - 📄 [View my Resume](https://drive.google.com/file/d/1aXgVWmNjoewGF-0au3VJH_b4Jcf5r7oR/view?usp=drive_link) (Last Updated - 24.02.2025)
+  - 📄 [View my Resume](https://drive.google.com/file/d/1UKaP4H5DPhYzBhh83gTvJmklDWOcEoaV/view?usp=sharing) (Last Updated - 24.02.2025)
 
 ### Languages and Tools:
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
